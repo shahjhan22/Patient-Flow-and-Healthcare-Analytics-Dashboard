@@ -17,6 +17,8 @@ The **Patient Flow and Satisfaction Dashboard** enables hospital administrators 
 - Satisfaction scores by demographic categories
 
 These insights aid in optimizing staffing, improving patient satisfaction, and identifying peak operational times.
+## Project Demo
+https://github.com/user-attachments/assets/8eed3fc5-1ea8-474d-ade0-b4636919de58
 
 ## Data Sources
 Data was sourced from Dataworld. The dataset includes:
